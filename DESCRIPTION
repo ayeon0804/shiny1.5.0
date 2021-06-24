@@ -1,0 +1,16 @@
+Package: test
+Type: Package
+Title: test
+Version: 0.0-1
+Date: 5-March-2010
+Depends: methods, sp, raster, ncdf, XML, R (>= 2.8.0)
+Suggests: rgdal (>= 0.5-33), deldir
+Author: Robert J. Hijmans
+Maintainer: Robert J. Hijmans <r.hijmans@gmail.com>
+Description: test
+License: GPL (>=3)
+URL: http://raster.r-forge.r-project.org/
+Repository: R-Forge
+Repository/R-Forge/Project: r-gis
+Repository/R-Forge/Revision: 338
+Packaged: 2012-08-27 06:19:54 UTC; rforge
